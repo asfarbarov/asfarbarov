@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asfarbarov
 - 👀 I’m interested in web
-- 🌱 I’m currently start learning python
+- 🌱 I’m currently start learning python and web frontend
 - 📫 How to reach me - Telegram: @asfarbarov, instagram: @asfarbarov
 
 <!---
